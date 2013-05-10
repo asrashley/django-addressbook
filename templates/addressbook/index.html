@@ -1,0 +1,20 @@
+{% extends "addressbook/base.html" %}
+{% block content %}
+{% include "addressbook/header.html" %}
+<form action="" method="post">
+{% csrf_token %}
+<table>
+{% ifequal mode "advanced" %}
+{{form}}
+<tr><td><a href="?mode=normal">Simple Search</a></td>
+<td><input type="submit" name="submit" value="Search" /></td></tr>
+{% else %}
+<tr><td>{{form.first}}</td><td>{{form.last}}</td>
+<td><input type="submit" name="submit" value="Search" /></td></tr>
+<tr><td>{{form.first.label_tag}}</td><td>{{form.last.label_tag}}</td>
+<td><a href="?mode=advanced">Advanced Search</a></td></tr>
+<tr><td colspan="2" /><td><a href="?new=1">Add New Person</a></td></tr>
+{% endifequal %}
+</table>
+</form>
+{% endblock %}

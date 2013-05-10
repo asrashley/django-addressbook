@@ -1,0 +1,135 @@
+{% extends "addressbook/base.html" %}
+{% load i18n %}
+{% load url from future %}
+{% load static %}
+
+{% block content %}
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+<div class="columns">
+
+{% if not is_popup %}
+<div class="timestamp">
+<table>
+<thead>
+<tr><th>Created</th><td>{{object.created}}</td></tr>
+<tr><th>Modified</th><td>{{object.modified}}</td></tr>
+</thead>
+<tbody>
+{% block buttons %}
+<tr class="buttons">
+{% if user.is_authenticated %}
+<td id="edit"><a href="{% url 'addressbook.views.person_edit' object.slug_last object.slug_first %}" class="noborder">
+<img src="{% static 'images/accessories_text_editor.png' %}" height="64" width="64" alt="{% trans 'Edit' %}" 
+title="{% trans 'Edit' %}" /></a></td>
+{% endif %}
+<td id="print">
+<a href="?print=1"><img src="{% static 'images/printer.png' %}" height="64" width="64" alt="" title="{% trans 'Print' %}" /></a>
+</td>
+</tr>
+{% endblock %}
+</tbody></table>
+</div>
+{% endif %}
+
+{% if object.image %}
+<img src={{object.image}} alt="Picture of {{object.first_name}}" title="Picture of {{object.first_name}}"
+style="float:right;" />
+{% endif %}
+
+<div class="col1">
+
+{% for addr in object.addresses.all %}
+<span>
+{% if addr.primary %}<strong>{% endif %}
+{{addr.location|title}} {% trans 'Address' %}
+{% if addr.primary %}</strong>{% endif %}
+</span>
+<div class="address">
+<table>
+<tr><td class="name">{{object.prefix}} {{object.first_name}} {{object.last_name}} {{object.suffix}}</td></tr>
+<tr><td>{{addr.line1}}<br />
+{% if addr.line2 %}{{addr.line2}}<br />{% endif %}
+{% if addr.line3 %}{{addr.line3}}<br />{% endif %}
+{{addr.city}}<br />{{addr.state.long_name}}
+{% if addr.zip %}<br />{{addr.zip}}{% endif %}
+<br />{{addr.state.country.name}}
+</td></tr>
+</table>
+</div>
+{% if forloop.last %}
+</div>
+<div class="col2">
+{% endif %}
+{% endfor %}
+
+{% for tel in object.telephones.all %}
+{% if forloop.first %}
+<span>{% trans 'Telephone Numbers' %}</span>
+<div class="telephone">
+<table>
+{% endif %}
+<tr><th>{{tel.location|title}} {{tel.get_type_display|title}}</th><td>
+{% if tel.primary %}<b>{% endif %}
+{{tel.number}}
+{% if tel.primary %}</b>{% endif %}
+</td></tr>
+{% if forloop.last %}
+</table>
+</div>
+{% endif %}
+{% endfor %}
+
+{% for email in object.emails.all %}
+{% if forloop.first %}
+<span>{% trans 'Email Addresses' %}</span>
+<div class="email">
+<table>
+{% endif %}
+<tr><th>{{email.location|title}}</th><td><a href="mailto:{{email.email}}">
+{% if email.primary %}<b>{% endif %}
+{{email.email}}
+{% if email.primary %}</b>{% endif %}
+</a></td></tr>
+{% if forloop.last %}
+</table>
+</div>
+{% endif %}
+{% endfor %}
+
+{% for web in object.websites.all %}
+{% if forloop.first %}
+<span>{% trans 'Websites' %}</span>
+<div class="website">
+<table>
+{% endif %}
+<tr><th>{{web.location|title}}</th><td><a href="{{web.url}}">
+{% if web.primary %}<b>{% endif %}
+{{web.url}}
+{% if web.primary %}</b>{% endif %}
+</a></td></tr>
+{% if forloop.last %}
+</table>
+</div>
+{% endif %}
+{% endfor %}
+
+</div>
+
+{% if object.notes %}
+<caption>{% trans 'Notes' %}</caption>
+<div class="notes"><table><tr><th>Notes</th><td>{{object.notes}}</td></tr></table></div>
+{% endif %}
+{% block extra-col1 %}{% endblock %}
+</div>
+{% if is_popup %}
+<div class="popup-timestamp">
+<table>
+<tr><th>Created</th><td>{{object.created}}</td></tr>
+<tr><th>Modified</th><td>{{object.modified}}</td></tr>
+</table>
+</div>
+{% endif %}
+
+{% endblock %}

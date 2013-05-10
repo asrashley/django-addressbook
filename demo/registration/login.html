@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% load i18n %}
+
+{% block title %}{% trans 'Login' %}{% endblock %}
+
+{% block content %}
+
+<h1>Login</h1>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+<p>
+If the "addresses.json" fixture has been loaded, the user name for this demo system is "test" and the password is "password"
+</p>
+<p>
+To import the example data, use
+<pre>
+python manage.py loaddata addresses.json
+</pre>
+</p>
+<form action="" method="POST">
+	<table>
+	{% csrf_token %}
+		{{form.as_table }}
+	</table>
+	<input type="submit" name="login" value="login" />
+	<input type="hidden" name="next" value="{{ next }}" />
+</form>
+
+{% endblock %}

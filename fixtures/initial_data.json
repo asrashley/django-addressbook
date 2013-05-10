@@ -1,0 +1,2989 @@
+[
+  {
+    "pk": "AD", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Andorra"
+    }
+  }, 
+  {
+    "pk": "AE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "United Arab Emirates"
+    }
+  }, 
+  {
+    "pk": "AF", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Afghanistan"
+    }
+  }, 
+  {
+    "pk": "AG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Antigua & Barbuda"
+    }
+  }, 
+  {
+    "pk": "AI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Anguilla"
+    }
+  }, 
+  {
+    "pk": "AL", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Albania"
+    }
+  }, 
+  {
+    "pk": "AM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Armenia"
+    }
+  }, 
+  {
+    "pk": "AN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Netherlands Antilles"
+    }
+  }, 
+  {
+    "pk": "AO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Angola"
+    }
+  }, 
+  {
+    "pk": "AQ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Antarctica"
+    }
+  }, 
+  {
+    "pk": "AR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Argentina"
+    }
+  }, 
+  {
+    "pk": "AS", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "American Samoa"
+    }
+  }, 
+  {
+    "pk": "AT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Austria"
+    }
+  }, 
+  {
+    "pk": "AU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Australia"
+    }
+  }, 
+  {
+    "pk": "AW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Aruba"
+    }
+  }, 
+  {
+    "pk": "AZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Azerbaijan"
+    }
+  }, 
+  {
+    "pk": "BA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bosnia and Herzegovina"
+    }
+  }, 
+  {
+    "pk": "BB", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Barbados"
+    }
+  }, 
+  {
+    "pk": "BD", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bangladesh"
+    }
+  }, 
+  {
+    "pk": "BE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Belgium"
+    }
+  }, 
+  {
+    "pk": "BF", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Burkina Faso"
+    }
+  }, 
+  {
+    "pk": "BG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bulgaria"
+    }
+  }, 
+  {
+    "pk": "BH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bahrain"
+    }
+  }, 
+  {
+    "pk": "BI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Burundi"
+    }
+  }, 
+  {
+    "pk": "BJ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Benin"
+    }
+  }, 
+  {
+    "pk": "BM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bermuda"
+    }
+  }, 
+  {
+    "pk": "BN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Brunei Darussalam"
+    }
+  }, 
+  {
+    "pk": "BO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bolivia"
+    }
+  }, 
+  {
+    "pk": "BR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Brazil"
+    }
+  }, 
+  {
+    "pk": "BS", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bahama"
+    }
+  }, 
+  {
+    "pk": "BT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bhutan"
+    }
+  }, 
+  {
+    "pk": "BU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Burma (no longer exists)"
+    }
+  }, 
+  {
+    "pk": "BV", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Bouvet Island"
+    }
+  }, 
+  {
+    "pk": "BW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Botswana"
+    }
+  }, 
+  {
+    "pk": "BY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Belarus"
+    }
+  }, 
+  {
+    "pk": "BZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Belize"
+    }
+  }, 
+  {
+    "pk": "CA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Canada"
+    }
+  }, 
+  {
+    "pk": "CC", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Cocos (Keeling) Islands"
+    }
+  }, 
+  {
+    "pk": "CF", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Central African Republic"
+    }
+  }, 
+  {
+    "pk": "CG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Congo"
+    }
+  }, 
+  {
+    "pk": "CH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Switzerland"
+    }
+  }, 
+  {
+    "pk": "CI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "C\u00f4te D'ivoire (Ivory Coast)"
+    }
+  }, 
+  {
+    "pk": "CK", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Cook Islands"
+    }
+  }, 
+  {
+    "pk": "CL", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Chile"
+    }
+  }, 
+  {
+    "pk": "CM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Cameroon"
+    }
+  }, 
+  {
+    "pk": "CN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "China"
+    }
+  }, 
+  {
+    "pk": "CO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Colombia"
+    }
+  }, 
+  {
+    "pk": "CR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Costa Rica"
+    }
+  }, 
+  {
+    "pk": "CS", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Czechoslovakia (no longer exists)"
+    }
+  }, 
+  {
+    "pk": "CU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Cuba"
+    }
+  }, 
+  {
+    "pk": "CV", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Cape Verde"
+    }
+  }, 
+  {
+    "pk": "CX", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Christmas Island"
+    }
+  }, 
+  {
+    "pk": "CY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Cyprus"
+    }
+  }, 
+  {
+    "pk": "CZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Czech Republic"
+    }
+  }, 
+  {
+    "pk": "DD", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "German Democratic Republic (no longer exists)"
+    }
+  }, 
+  {
+    "pk": "DE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Germany"
+    }
+  }, 
+  {
+    "pk": "DJ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Djibouti"
+    }
+  }, 
+  {
+    "pk": "DK", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Denmark"
+    }
+  }, 
+  {
+    "pk": "DM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Dominica"
+    }
+  }, 
+  {
+    "pk": "DO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Dominican Republic"
+    }
+  }, 
+  {
+    "pk": "DZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Algeria"
+    }
+  }, 
+  {
+    "pk": "EC", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Ecuador"
+    }
+  }, 
+  {
+    "pk": "EE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Estonia"
+    }
+  }, 
+  {
+    "pk": "EG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Egypt"
+    }
+  }, 
+  {
+    "pk": "EH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Western Sahara"
+    }
+  }, 
+  {
+    "pk": "ER", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Eritrea"
+    }
+  }, 
+  {
+    "pk": "ES", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Spain"
+    }
+  }, 
+  {
+    "pk": "ET", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Ethiopia"
+    }
+  }, 
+  {
+    "pk": "FI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Finland"
+    }
+  }, 
+  {
+    "pk": "FJ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Fiji"
+    }
+  }, 
+  {
+    "pk": "FK", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Falkland Islands (Malvinas)"
+    }
+  }, 
+  {
+    "pk": "FM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Micronesia"
+    }
+  }, 
+  {
+    "pk": "FO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Faroe Islands"
+    }
+  }, 
+  {
+    "pk": "FR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "France"
+    }
+  }, 
+  {
+    "pk": "FX", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "France, Metropolitan"
+    }
+  }, 
+  {
+    "pk": "GA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Gabon"
+    }
+  }, 
+  {
+    "pk": "GB", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "United Kingdom"
+    }
+  }, 
+  {
+    "pk": "GD", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Grenada"
+    }
+  }, 
+  {
+    "pk": "GE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Georgia"
+    }
+  }, 
+  {
+    "pk": "GF", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "French Guiana"
+    }
+  }, 
+  {
+    "pk": "GH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Ghana"
+    }
+  }, 
+  {
+    "pk": "GI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Gibraltar"
+    }
+  }, 
+  {
+    "pk": "GL", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Greenland"
+    }
+  }, 
+  {
+    "pk": "GM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Gambia"
+    }
+  }, 
+  {
+    "pk": "GN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Guinea"
+    }
+  }, 
+  {
+    "pk": "GP", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Guadeloupe"
+    }
+  }, 
+  {
+    "pk": "GQ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Equatorial Guinea"
+    }
+  }, 
+  {
+    "pk": "GR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Greece"
+    }
+  }, 
+  {
+    "pk": "GS", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "South Georgia and the South Sandwich Islands"
+    }
+  }, 
+  {
+    "pk": "GT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Guatemala"
+    }
+  }, 
+  {
+    "pk": "GU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Guam"
+    }
+  }, 
+  {
+    "pk": "GW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Guinea-Bissau"
+    }
+  }, 
+  {
+    "pk": "GY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Guyana"
+    }
+  }, 
+  {
+    "pk": "HK", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Hong Kong"
+    }
+  }, 
+  {
+    "pk": "HM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Heard & McDonald Islands"
+    }
+  }, 
+  {
+    "pk": "HN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Honduras"
+    }
+  }, 
+  {
+    "pk": "HR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Croatia"
+    }
+  }, 
+  {
+    "pk": "HT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Haiti"
+    }
+  }, 
+  {
+    "pk": "HU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Hungary"
+    }
+  }, 
+  {
+    "pk": "ID", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Indonesia"
+    }
+  }, 
+  {
+    "pk": "IE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Ireland"
+    }
+  }, 
+  {
+    "pk": "IL", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Israel"
+    }
+  }, 
+  {
+    "pk": "IN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "India"
+    }
+  }, 
+  {
+    "pk": "IO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "British Indian Ocean Territory"
+    }
+  }, 
+  {
+    "pk": "IQ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Iraq"
+    }
+  }, 
+  {
+    "pk": "IR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Islamic Republic of Iran"
+    }
+  }, 
+  {
+    "pk": "IS", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Iceland"
+    }
+  }, 
+  {
+    "pk": "IT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Italy"
+    }
+  }, 
+  {
+    "pk": "JM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Jamaica"
+    }
+  }, 
+  {
+    "pk": "JO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Jordan"
+    }
+  }, 
+  {
+    "pk": "JP", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Japan"
+    }
+  }, 
+  {
+    "pk": "KE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Kenya"
+    }
+  }, 
+  {
+    "pk": "KG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Kyrgyzstan"
+    }
+  }, 
+  {
+    "pk": "KH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Cambodia"
+    }
+  }, 
+  {
+    "pk": "KI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Kiribati"
+    }
+  }, 
+  {
+    "pk": "KM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Comoros"
+    }
+  }, 
+  {
+    "pk": "KN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "St. Kitts and Nevis"
+    }
+  }, 
+  {
+    "pk": "KP", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Korea, Democratic People's Republic of"
+    }
+  }, 
+  {
+    "pk": "KR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Korea, Republic of"
+    }
+  }, 
+  {
+    "pk": "KW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Kuwait"
+    }
+  }, 
+  {
+    "pk": "KY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Cayman Islands"
+    }
+  }, 
+  {
+    "pk": "KZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Kazakhstan"
+    }
+  }, 
+  {
+    "pk": "LA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Lao People's Democratic Republic"
+    }
+  }, 
+  {
+    "pk": "LB", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Lebanon"
+    }
+  }, 
+  {
+    "pk": "LC", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Saint Lucia"
+    }
+  }, 
+  {
+    "pk": "LI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Liechtenstein"
+    }
+  }, 
+  {
+    "pk": "LK", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Sri Lanka"
+    }
+  }, 
+  {
+    "pk": "LR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Liberia"
+    }
+  }, 
+  {
+    "pk": "LS", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Lesotho"
+    }
+  }, 
+  {
+    "pk": "LT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Lithuania"
+    }
+  }, 
+  {
+    "pk": "LU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Luxembourg"
+    }
+  }, 
+  {
+    "pk": "LV", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Latvia"
+    }
+  }, 
+  {
+    "pk": "LY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Libyan Arab Jamahiriya"
+    }
+  }, 
+  {
+    "pk": "MA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Morocco"
+    }
+  }, 
+  {
+    "pk": "MC", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Monaco"
+    }
+  }, 
+  {
+    "pk": "MD", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Moldova, Republic of"
+    }
+  }, 
+  {
+    "pk": "MG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Madagascar"
+    }
+  }, 
+  {
+    "pk": "MH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Marshall Islands"
+    }
+  }, 
+  {
+    "pk": "ML", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Mali"
+    }
+  }, 
+  {
+    "pk": "MN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Mongolia"
+    }
+  }, 
+  {
+    "pk": "MM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Myanmar"
+    }
+  }, 
+  {
+    "pk": "MO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Macau"
+    }
+  }, 
+  {
+    "pk": "MP", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Northern Mariana Islands"
+    }
+  }, 
+  {
+    "pk": "MQ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Martinique"
+    }
+  }, 
+  {
+    "pk": "MR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Mauritania"
+    }
+  }, 
+  {
+    "pk": "MS", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Monserrat"
+    }
+  }, 
+  {
+    "pk": "MT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Malta"
+    }
+  }, 
+  {
+    "pk": "MU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Mauritius"
+    }
+  }, 
+  {
+    "pk": "MV", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Maldives"
+    }
+  }, 
+  {
+    "pk": "MW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Malawi"
+    }
+  }, 
+  {
+    "pk": "MX", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Mexico"
+    }
+  }, 
+  {
+    "pk": "MY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Malaysia"
+    }
+  }, 
+  {
+    "pk": "MZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Mozambique"
+    }
+  }, 
+  {
+    "pk": "NA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Namibia"
+    }
+  }, 
+  {
+    "pk": "NC", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "New Caledonia"
+    }
+  }, 
+  {
+    "pk": "NE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Niger"
+    }
+  }, 
+  {
+    "pk": "NF", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Norfolk Island"
+    }
+  }, 
+  {
+    "pk": "NG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Nigeria"
+    }
+  }, 
+  {
+    "pk": "NI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Nicaragua"
+    }
+  }, 
+  {
+    "pk": "NL", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Netherlands"
+    }
+  }, 
+  {
+    "pk": "NO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Norway"
+    }
+  }, 
+  {
+    "pk": "NP", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Nepal"
+    }
+  }, 
+  {
+    "pk": "NR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Nauru"
+    }
+  }, 
+  {
+    "pk": "NT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Neutral Zone (no longer exists)"
+    }
+  }, 
+  {
+    "pk": "NU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Niue"
+    }
+  }, 
+  {
+    "pk": "NZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "New Zealand"
+    }
+  }, 
+  {
+    "pk": "OM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Oman"
+    }
+  }, 
+  {
+    "pk": "PA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Panama"
+    }
+  }, 
+  {
+    "pk": "PE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Peru"
+    }
+  }, 
+  {
+    "pk": "PF", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "French Polynesia"
+    }
+  }, 
+  {
+    "pk": "PG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Papua New Guinea"
+    }
+  }, 
+  {
+    "pk": "PH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Philippines"
+    }
+  }, 
+  {
+    "pk": "PK", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Pakistan"
+    }
+  }, 
+  {
+    "pk": "PL", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Poland"
+    }
+  }, 
+  {
+    "pk": "PM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "St. Pierre & Miquelon"
+    }
+  }, 
+  {
+    "pk": "PN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Pitcairn"
+    }
+  }, 
+  {
+    "pk": "PR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Puerto Rico"
+    }
+  }, 
+  {
+    "pk": "PT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Portugal"
+    }
+  }, 
+  {
+    "pk": "PW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Palau"
+    }
+  }, 
+  {
+    "pk": "PY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Paraguay"
+    }
+  }, 
+  {
+    "pk": "QA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Qatar"
+    }
+  }, 
+  {
+    "pk": "RE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "R\u00e9union"
+    }
+  }, 
+  {
+    "pk": "RO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Romania"
+    }
+  }, 
+  {
+    "pk": "RU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Russian Federation"
+    }
+  }, 
+  {
+    "pk": "RW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Rwanda"
+    }
+  }, 
+  {
+    "pk": "SA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Saudi Arabia"
+    }
+  }, 
+  {
+    "pk": "SB", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Solomon Islands"
+    }
+  }, 
+  {
+    "pk": "SC", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Seychelles"
+    }
+  }, 
+  {
+    "pk": "SD", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Sudan"
+    }
+  }, 
+  {
+    "pk": "SE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Sweden"
+    }
+  }, 
+  {
+    "pk": "SG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Singapore"
+    }
+  }, 
+  {
+    "pk": "SH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "St. Helena"
+    }
+  }, 
+  {
+    "pk": "SI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Slovenia"
+    }
+  }, 
+  {
+    "pk": "SJ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Svalbard & Jan Mayen Islands"
+    }
+  }, 
+  {
+    "pk": "SK", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Slovakia"
+    }
+  }, 
+  {
+    "pk": "SL", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Sierra Leone"
+    }
+  }, 
+  {
+    "pk": "SM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "San Marino"
+    }
+  }, 
+  {
+    "pk": "SN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Senegal"
+    }
+  }, 
+  {
+    "pk": "SO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Somalia"
+    }
+  }, 
+  {
+    "pk": "SR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Suriname"
+    }
+  }, 
+  {
+    "pk": "ST", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Sao Tome & Principe"
+    }
+  }, 
+  {
+    "pk": "SU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Union of Soviet Socialist Republics (no longer exists)"
+    }
+  }, 
+  {
+    "pk": "SV", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "El Salvador"
+    }
+  }, 
+  {
+    "pk": "SY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Syrian Arab Republic"
+    }
+  }, 
+  {
+    "pk": "SZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Swaziland"
+    }
+  }, 
+  {
+    "pk": "TC", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Turks & Caicos Islands"
+    }
+  }, 
+  {
+    "pk": "TD", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Chad"
+    }
+  }, 
+  {
+    "pk": "TF", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "French Southern Territories"
+    }
+  }, 
+  {
+    "pk": "TG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Togo"
+    }
+  }, 
+  {
+    "pk": "TH", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Thailand"
+    }
+  }, 
+  {
+    "pk": "TJ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Tajikistan"
+    }
+  }, 
+  {
+    "pk": "TK", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Tokelau"
+    }
+  }, 
+  {
+    "pk": "TM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Turkmenistan"
+    }
+  }, 
+  {
+    "pk": "TN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Tunisia"
+    }
+  }, 
+  {
+    "pk": "TO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Tonga"
+    }
+  }, 
+  {
+    "pk": "TP", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "East Timor"
+    }
+  }, 
+  {
+    "pk": "TR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Turkey"
+    }
+  }, 
+  {
+    "pk": "TT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Trinidad & Tobago"
+    }
+  }, 
+  {
+    "pk": "TV", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Tuvalu"
+    }
+  }, 
+  {
+    "pk": "TW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Taiwan, Province of China"
+    }
+  }, 
+  {
+    "pk": "TZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Tanzania, United Republic of"
+    }
+  }, 
+  {
+    "pk": "UA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Ukraine"
+    }
+  }, 
+  {
+    "pk": "UG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Uganda"
+    }
+  }, 
+  {
+    "pk": "UM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "United States Minor Outlying Islands"
+    }
+  }, 
+  {
+    "pk": "US", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "United States of America"
+    }
+  }, 
+  {
+    "pk": "UY", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Uruguay"
+    }
+  }, 
+  {
+    "pk": "UZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Uzbekistan"
+    }
+  }, 
+  {
+    "pk": "VA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Vatican City State (Holy See)"
+    }
+  }, 
+  {
+    "pk": "VC", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "St. Vincent & the Grenadines"
+    }
+  }, 
+  {
+    "pk": "VE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Venezuela"
+    }
+  }, 
+  {
+    "pk": "VG", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "British Virgin Islands"
+    }
+  }, 
+  {
+    "pk": "VI", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "United States Virgin Islands"
+    }
+  }, 
+  {
+    "pk": "VN", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Viet Nam"
+    }
+  }, 
+  {
+    "pk": "VU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Vanuatu"
+    }
+  }, 
+  {
+    "pk": "WF", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Wallis & Futuna Islands"
+    }
+  }, 
+  {
+    "pk": "WS", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Samoa"
+    }
+  }, 
+  {
+    "pk": "YD", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Democratic Yemen (no longer exists)"
+    }
+  }, 
+  {
+    "pk": "YE", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Yemen"
+    }
+  }, 
+  {
+    "pk": "YT", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Mayotte"
+    }
+  }, 
+  {
+    "pk": "YU", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Yugoslavia"
+    }
+  }, 
+  {
+    "pk": "ZA", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "South Africa"
+    }
+  }, 
+  {
+    "pk": "ZM", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Zambia"
+    }
+  }, 
+  {
+    "pk": "ZR", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Zaire"
+    }
+  }, 
+  {
+    "pk": "ZW", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Zimbabwe"
+    }
+  }, 
+  {
+    "pk": "ZZ", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Unknown or unspecified country"
+    }
+  }, 
+  {
+    "pk": "SCO", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Scotland"
+    }
+  }, 
+  {
+    "pk": "WAL", 
+    "model": "addressbook.country", 
+    "fields": {
+      "name": "Wales"
+    }
+  }, 
+  {
+    "pk": 2905, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Alabama", 
+      "short_name": "AL", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2906, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Alaska", 
+      "short_name": "AK", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2907, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Arizona", 
+      "short_name": "AZ", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2908, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Arkansas", 
+      "short_name": "AR", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2909, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "California", 
+      "short_name": "CA", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2910, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Colorado", 
+      "short_name": "CO", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2911, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Connecticut", 
+      "short_name": "CT", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2912, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Delaware", 
+      "short_name": "DE", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2913, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Florida", 
+      "short_name": "FL", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2914, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Georgia", 
+      "short_name": "GA", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2915, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Hawaii", 
+      "short_name": "HI", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2916, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Idaho", 
+      "short_name": "ID", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2917, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Illinois", 
+      "short_name": "IL", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2918, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Indiana", 
+      "short_name": "IN", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2919, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Iowa", 
+      "short_name": "IA", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2920, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Kansas", 
+      "short_name": "KS", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2921, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Kentucky", 
+      "short_name": "KY", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2922, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Louisiana", 
+      "short_name": "LA", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2923, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Maine", 
+      "short_name": "ME", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2924, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Maryland", 
+      "short_name": "MD", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2925, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Massachusetts", 
+      "short_name": "MA", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2926, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Michigan", 
+      "short_name": "MI", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2927, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Minnesota", 
+      "short_name": "MN", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2928, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Mississippi", 
+      "short_name": "MS", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2929, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Missouri", 
+      "short_name": "MO", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2930, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Montana", 
+      "short_name": "MT", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2931, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Nebraska", 
+      "short_name": "NE", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2932, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Nevada", 
+      "short_name": "NV", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2933, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "New Hampshire", 
+      "short_name": "NH", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2934, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "New Jersey", 
+      "short_name": "NJ", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2935, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "New Mexico", 
+      "short_name": "NM", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2936, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "New York", 
+      "short_name": "NY", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2937, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "North Carolina", 
+      "short_name": "NC", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2938, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "North Dakota", 
+      "short_name": "ND", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2939, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Ohio", 
+      "short_name": "OH", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2940, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Oklahoma", 
+      "short_name": "OK", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2941, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Oregon", 
+      "short_name": "OR", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2942, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Pennsylvania", 
+      "short_name": "PA", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2943, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Rhode Island", 
+      "short_name": "RI", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2944, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "South Carolina", 
+      "short_name": "SC", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2945, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "South Dakota", 
+      "short_name": "SD", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2946, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Tennessee", 
+      "short_name": "TN", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2947, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Texas", 
+      "short_name": "TX", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2948, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Utah", 
+      "short_name": "UT", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2949, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Vermont", 
+      "short_name": "VT", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2950, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Virginia", 
+      "short_name": "VA", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2951, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Washington", 
+      "short_name": "WA", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2952, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "West Virginia", 
+      "short_name": "WV", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2953, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Wisconsin", 
+      "short_name": "WI", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2954, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Wyoming", 
+      "short_name": "WY", 
+      "country": "US"
+    }
+  }, 
+  {
+    "pk": 2955, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Buckinghamshire", 
+      "short_name": "Buckinghamshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2956, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Cambridgeshire", 
+      "short_name": "Cambridgeshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2957, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Berkshire", 
+      "short_name": "Berkshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2958, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Kent", 
+      "short_name": "Kent", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2959, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Surrey", 
+      "short_name": "Surrey", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2960, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Stirlingshire", 
+      "short_name": "Stirlingshire", 
+      "country": "SCO"
+    }
+  }, 
+  {
+    "pk": 2961, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Northumberland", 
+      "short_name": "Northumberland", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2962, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Suffolk", 
+      "short_name": "Suffolk", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2963, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Solihull", 
+      "short_name": "Solihull", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2964, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "East Sussex", 
+      "short_name": "East Sussex", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2965, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Bedfordshire", 
+      "short_name": "Bedfordshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2966, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Cornwall", 
+      "short_name": "Cornwall", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2967, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "West Midlands", 
+      "short_name": "West Midlands", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2968, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Inverness", 
+      "short_name": "Inverness", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2969, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Devon", 
+      "short_name": "Devon", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2970, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Dublin", 
+      "short_name": "Dublin", 
+      "country": "IE"
+    }
+  }, 
+  {
+    "pk": 2971, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Denbighshire", 
+      "short_name": "Denbighshire", 
+      "country": "WAL"
+    }
+  }, 
+  {
+    "pk": 2972, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Edinburgh", 
+      "short_name": "Edinburgh", 
+      "country": "SCO"
+    }
+  }, 
+  {
+    "pk": 2973, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "West Sussex", 
+      "short_name": "West Sussex", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2974, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Avon", 
+      "short_name": "Avon", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2975, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "London", 
+      "short_name": "London", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2976, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Kettering", 
+      "short_name": "Kettering", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2977, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Germany", 
+      "short_name": "Germany", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2978, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Sanderstead", 
+      "short_name": "Sanderstead", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2979, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Borders", 
+      "short_name": "Borders", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2980, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Dorset", 
+      "short_name": "Dorset", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2981, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Middlesex", 
+      "short_name": "Middlesex", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2982, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Central", 
+      "short_name": "Central", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2983, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Cheshire", 
+      "short_name": "Cheshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2984, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Cleveland", 
+      "short_name": "Cleveland", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2985, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Clwyd", 
+      "short_name": "Clwyd", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2986, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "County Antrim", 
+      "short_name": "County Antrim", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2987, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "County Armagh", 
+      "short_name": "County Armagh", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2988, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "County Down", 
+      "short_name": "County Down", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2989, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "County Fermanagh", 
+      "short_name": "County Fermanagh", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2990, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "County Londonderry", 
+      "short_name": "County Londonderry", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2991, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "County Tyrone", 
+      "short_name": "County Tyrone", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2992, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Cumbria", 
+      "short_name": "Cumbria", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2993, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Derbyshire", 
+      "short_name": "Derbyshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2994, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Dumfries and Galloway", 
+      "short_name": "Dumfries and Galloway", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2995, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Durham", 
+      "short_name": "Durham", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2996, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Dyfed", 
+      "short_name": "Dyfed", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2997, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Essex", 
+      "short_name": "Essex", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2998, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Essex", 
+      "short_name": "Fife", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 2999, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Gloucestershire", 
+      "short_name": "Gloucestershire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3000, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Grampian", 
+      "short_name": "Grampian", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3001, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Greater Manchester", 
+      "short_name": "Greater Manchester", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3002, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Gwent", 
+      "short_name": "Gwent", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3003, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Gwynedd County", 
+      "short_name": "Gwynedd County", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3004, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Hampshire", 
+      "short_name": "Hampshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3005, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Herefordshire", 
+      "short_name": "Herefordshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3006, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Hertfordshire", 
+      "short_name": "Hertfordshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3007, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Highlands and Islands", 
+      "short_name": "Highlands and Islands", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3008, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Humberside", 
+      "short_name": "Humberside", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3009, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Isle of Wight", 
+      "short_name": "Isle of Wight", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3010, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Lancashire", 
+      "short_name": "Lancashire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3011, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Leicestershire", 
+      "short_name": "Leicestershire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3012, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Lincolnshire", 
+      "short_name": "Lincolnshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3013, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Lothian", 
+      "short_name": "Lothian", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3014, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Merseyside", 
+      "short_name": "Merseyside", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3015, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Mid Glamorgan", 
+      "short_name": "Mid Glamorgan", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3016, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Norfolk", 
+      "short_name": "Norfolk", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3017, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "North", 
+      "short_name": "North", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3018, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Yorkshire", 
+      "short_name": "Yorkshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3019, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Northamptonshire", 
+      "short_name": "Northamptonshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3020, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Nottinghamshire", 
+      "short_name": "Nottinghamshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3021, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Oxfordshire", 
+      "short_name": "Oxfordshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3022, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Powys", 
+      "short_name": "Powys", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3023, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Rutland", 
+      "short_name": "Rutland", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3024, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Shropshire", 
+      "short_name": "Shropshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3025, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Somerset", 
+      "short_name": "Somerset", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3026, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "South Glamorgan", 
+      "short_name": "South Glamorgan", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3027, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "South Yorkshire", 
+      "short_name": "South Yorkshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3028, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Staffordshire", 
+      "short_name": "Staffordshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3029, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Strathclyde", 
+      "short_name": "Strathclyde", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3030, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Tayside", 
+      "short_name": "Tayside", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3031, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Tyne and Wear", 
+      "short_name": "Tyne and Wear", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3032, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Warwickshire", 
+      "short_name": "Warwickshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3033, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "West Glamorgan", 
+      "short_name": "West Glamorgan", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3034, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "West Yorkshire", 
+      "short_name": "West Yorkshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3035, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Wiltshire", 
+      "short_name": "Wiltshire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 3036, 
+    "model": "addressbook.state", 
+    "fields": {
+      "long_name": "Worcestershire", 
+      "short_name": "Worcestershire", 
+      "country": "GB"
+    }
+  }, 
+  {
+    "pk": 75, 
+    "model": "addressbook.prefix", 
+    "fields": {
+      "value": ""
+    }
+  }, 
+  {
+    "pk": 76, 
+    "model": "addressbook.prefix", 
+    "fields": {
+      "value": "Dr"
+    }
+  }, 
+  {
+    "pk": 77, 
+    "model": "addressbook.prefix", 
+    "fields": {
+      "value": "Mr"
+    }
+  }, 
+  {
+    "pk": 78, 
+    "model": "addressbook.prefix", 
+    "fields": {
+      "value": "Mrs"
+    }
+  }, 
+  {
+    "pk": 79, 
+    "model": "addressbook.prefix", 
+    "fields": {
+      "value": "Ms"
+    }
+  }, 
+  {
+    "pk": 80, 
+    "model": "addressbook.prefix", 
+    "fields": {
+      "value": "Rev"
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "addressbook.contactlocation", 
+    "fields": {
+      "value": "Home"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "addressbook.contactlocation", 
+    "fields": {
+      "value": "Work"
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "addressbook.contactlocation", 
+    "fields": {
+      "value": "Holiday Home"
+    }
+  }, 
+  {
+    "pk": 4, 
+    "model": "addressbook.contactlocation", 
+    "fields": {
+      "value": "Other"
+    }
+  }
+]

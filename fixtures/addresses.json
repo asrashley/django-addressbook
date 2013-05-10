@@ -1,0 +1,171 @@
+[
+	{
+        "pk": 4,
+        "model": "auth.user",
+        "fields": {
+            "username": "test",
+            "first_name": "",
+            "last_name": "",
+            "is_active": 1,
+            "is_superuser": 0,
+            "is_staff": 0,
+            "last_login": "2009-08-14 09:20:03",
+            "groups": [],
+            "user_permissions": [],
+            "password": "sha1$bf436$bf480c55c455eee5da62daf43fa2a118d5175ada",
+            "email": "",
+            "date_joined": "2009-08-14 09:20:03"
+        }
+    },
+   {
+        "pk": 1,
+        "model": "sites.site",
+        "fields": {
+            "domain": "digital-video.org.uk",
+            "name": "digital-video.org.uk"
+        }
+    },
+  {
+    "pk": 1001, 
+    "model": "addressbook.address", 
+    "fields": {
+      "city": "Redhill", 
+      "zip": "AB1 2CD", 
+      "line3": null, 
+      "line2": "", 
+      "line1": "1 Example Road", 
+      "primary": true, 
+      "state": 2959, 
+      "location": 1
+    }
+  }, 
+  {
+    "pk": 1002, 
+    "model": "addressbook.address", 
+    "fields": {
+      "city": "Berlin", 
+      "zip": "", 
+      "line3": null, 
+      "line2": "12345", 
+      "line1": "Winsstr.11", 
+      "primary": true, 
+      "state": 2977, 
+      "location": 1
+    }
+  }, 
+  {
+    "pk": 1003, 
+    "model": "addressbook.address", 
+    "fields": {
+      "city": "Staines", 
+      "zip": "TW1 2BC", 
+      "line3": "", 
+      "line2": "56 Bath Road", 
+      "line1": "Acme Inc", 
+      "primary": false, 
+      "state": 2981, 
+      "location": 4
+    }
+  }, 
+  {
+    "pk": 181, 
+    "model": "addressbook.telephone", 
+    "fields": {
+      "type": 1, 
+      "number": "01234 456789", 
+      "location": 1, 
+      "primary": true
+    }
+  }, 
+  {
+    "pk": 188, 
+    "model": "addressbook.telephone", 
+    "fields": {
+      "type": 1, 
+      "number": "+44 7987123321", 
+      "location": 2, 
+      "primary": false
+    }
+  }, 
+  {
+    "pk": 121, 
+    "model": "addressbook.email", 
+    "fields": {
+      "email": "fred@example.com", 
+      "location": 1, 
+      "primary": true
+    }
+  }, 
+  {
+    "pk": 21, 
+    "model": "addressbook.website", 
+    "fields": {
+      "url": "http://www.digital-video.org.uk/", 
+      "location": 1, 
+      "primary": false
+    }
+  }, 
+  {
+    "pk": 22, 
+    "model": "addressbook.website", 
+    "fields": {
+      "url": "http://www.ashley-family.net/", 
+      "location": 1, 
+      "primary": true
+    }
+  }, 
+  {
+    "pk": 791, 
+    "model": "addressbook.person", 
+    "fields": {
+      "first_name": "Fred", 
+      "last_name": "Bloggs", 
+      "suffix": "", 
+      "created": "2009-02-06 17:29:26", 
+      "websites": [
+        21, 
+        22
+      ], 
+      "notes": "", 
+      "slug_first": "fred", 
+      "modified": "2009-02-06 17:47:57", 
+      "emails": [
+        121
+      ], 
+      "slug_last": "bloggs", 
+      "prefix": 77, 
+      "telephones": [
+        181, 
+        188
+      ], 
+      "image": "", 
+      "addresses": [
+        1001,
+        1003
+      ]
+    }
+  }, 
+  {
+    "pk": 792, 
+    "model": "addressbook.person", 
+    "fields": {
+      "first_name": "Jane", 
+      "last_name": "Dowe", 
+      "suffix": "", 
+      "created": "2009-02-06 17:29:26", 
+      "websites": [], 
+      "notes": "", 
+      "slug_first": "jane", 
+      "modified": "2009-02-06 17:47:57", 
+      "emails": [], 
+      "slug_last": "dowe", 
+      "prefix": 79, 
+      "telephones": [
+      ], 
+      "image": "", 
+      "addresses": [
+        1002
+      ]
+    }
+  }
+]

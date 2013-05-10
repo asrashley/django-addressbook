@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ LANGUAGE_CODE }}" xml:lang="{{ LANGUAGE_CODE }}" {% if LANGUAGE_BIDI %}dir="rtl"{% endif %}>
+<head>
+{% load cache %}
+	<title>{% block title %}{% if title %}{{title}}{% endif %}{% endblock %}</title>
+{% block extrastyle %}{% endblock %}
+{% block extrahead %}{% endblock %}
+{% block blockbots %}<meta name="robots" content="NONE,NOARCHIVE" />{% endblock %}
+</head>
+
+<body {% if is_popup %}class="popup"{% endif %}>
+
+<!-- Container -->
+<div id="container">
+
+    <!-- Content -->
+	<div id="content">
+        {% block pretitle %}{% endblock %}
+        {% block content %}
+        {{ content }}
+        {% endblock %}
+
+    </div>
+    <!-- END Content -->
+
+   
+<div id="footer">
+{% block footer %}
+<br />
+{% endblock %}
+</div>
+
+{% block endhtml %}
+</div>
+<!-- END Container -->
+</body>
+</html>
+{% endblock %}

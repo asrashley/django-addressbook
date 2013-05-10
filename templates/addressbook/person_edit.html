@@ -1,0 +1,48 @@
+{% extends "addressbook/base.html" %}
+
+{% block content %}
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+<form action="{% if request.GET.next %}?next={{ request.GET.next }}{% endif %}"  enctype="multipart/form-data"  method="POST">
+{% csrf_token %}
+<table>
+{{ addresses.management_form }}
+{{ telephones.management_form }}
+{{ emails.management_form }}
+{{ websites.management_form }}
+{{ person.as_table }}
+</table><table>
+{% for addr in addresses.forms %}
+<tr><td><b>Address:</b></td><td>{{addr.id}}{{addr.line1.label_tag}}</td><td>{{addr.line1}}</td><td>{{addr.location}}</td></tr>
+<tr><td /><td>{{addr.line2.label_tag}}</td><td>{{addr.line2}}</td><td>{{addr.primary.label_tag}}{{addr.primary}}</td></tr>
+<tr><td /><td>{{addr.line3.label_tag}}</td><td>{{addr.line3}}</td><td>{{addr.DELETE.label_tag}}{{addr.DELETE}}</td></tr>
+<tr><td /><td>{{addr.city.label_tag}}</td><td>{{addr.city}}</td></tr>
+<tr><td /><td>{{addr.state.label_tag}}</td><td>{{addr.state}}</td><td>{{addr.errors}}</td></tr>
+<tr><td /><td>{{addr.zip.label_tag}}</td><td>{{addr.zip}}</td></tr>
+{% endfor %}
+{% for tel in telephones.forms %}
+<tr><td><b>Telephone:</b></td><td>{{tel.id}}{{tel.number}}</td><td>{{tel.location}}</td><td>{{tel.type}}</td><td>{{tel.primary.label_tag}}{{tel.primary}}</td><td>{{tel.DELETE.label_tag}}{{tel.DELETE}}</td><td>{{tel.errors}}</td></tr>
+{% endfor %}
+{% for email in emails.forms %}
+<tr><td><b>Email:</b></td><td>{{email.id}}{{email.email}}</td><td>{{email.location}}</td><td>{{email.primary.label_tag}}{{email.primary}}</td><td>{{email.DELETE.label_tag}}{{email.DELETE}}</td><td>{{email.errors}}</td></tr>
+{% endfor %}
+{% for web in websites.forms %}
+<tr><td><b>Website:</b></td><td>{{web.id}}{{web.url}}</td><td>{{web.location}}</td><td>{{web.primary.label_tag}}{{web.primary}}</td><td>{{web.DELETE.label_tag}}{{web.DELETE}}</td><td>{{web.errors}}</td></tr>
+{% endfor %}
+</table>
+{% if user.is_authenticated %}
+<input type="submit" name="submit" value="Save" />
+{% endif %}
+{% if is_popup %}
+<input type="submit" name="cancel" value="Close" onclick="window.close();" />
+{% else %}
+<input type="submit" name="cancel" value="Back" />
+{% endif %}
+{% if user.is_authenticated and can_delete %}
+<input type="submit" name="delete" value="Delete" />
+{% endif %}
+
+</form>
+
+{% endblock %}

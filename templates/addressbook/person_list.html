@@ -1,0 +1,10 @@
+{% extends "generic_list.html" %}
+{% load static %}
+{% block extrastyle %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/addressbook.css' %}" />
+{% endblock %}
+{% block prelist %}
+{% include "addressbook/header.html" %}
+{% endblock %}
+
+{% block tablestart %}<table id="addressbook">{% endblock %}

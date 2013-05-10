@@ -1,0 +1,128 @@
+table.addressbook {
+	border: 1px solid #707070;
+	empty-cells: show;
+	border-collapse: collapse;
+}
+
+table.addressbook thead {
+	border-bottom: 1px solid #707070;
+	background-color: #D0D0D0;
+}
+
+table.addressbook td {
+	font-size: 12px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+table.addressbook td.address {
+	font-size: 10px;
+	width: 300px;
+}
+
+table.addressbook td.name {
+	font-weight: bold;
+}
+
+tr.row1 {
+	background-color: #eedfcc;
+}
+
+tr.row2 {
+	background-color: #fff0dd;
+}
+
+table.addressbook td a:link,table.addressbook td a:visited {
+	color: black;
+}
+
+table.addressbook td a:hover,a:hover {
+	background-color: transparent;
+	color: #3090CF;
+	text-decoration: none
+}
+
+div.buttons {
+	height: 50px;
+	float:right;
+}
+
+div.buttons span {
+	margin-right: 40px;
+}
+
+div.buttons img {
+	margin-right: 5px;
+	}
+	
+div.columns {
+	display: block;
+}
+
+div.col1 {
+	float: left;
+	width: 420px;
+}
+
+div.col2 {
+	width: 420px;
+	margin-left: 440px;
+}
+
+div.addressbookheader {
+	border: 1px solid #C0C0C0;
+	padding: 2px 20px 2px 20px;
+	margin: 5px 20px 10px 20px;
+}
+
+div.address {
+	background: #faebd7 url(../images/stamp.jpg) no-repeat scroll top
+		right;
+	width: 340px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	padding: 20px 20px 20px 20px;
+	border: 1px solid #A09090;
+}
+
+div.telephone,div.email,div.website {
+	width: 340px;
+	margin: 2px 0px 15px 20px;
+	padding: 5px 20px 5px 20px;
+	border: 1px solid #B0B0B0;
+}
+
+div.telephone {
+	background-color: #faf0e6;
+}
+
+div.email {
+	background-color: #fffacd;
+}
+
+div.website {
+	background-color: #fff0f5;
+}
+
+div.notes {
+	clear: both; width : 80%;
+	background-color: #e6e6fa;
+	border: 1px solid #C0C0C0;
+	padding: 2px 20px 2px 20px;
+	margin: 5px 20px 10px 20px;
+	width: 80%;
+}
+
+div.timestamp {
+	float: right;
+	width: 300px;
+}
+
+div.popup-timestamp {
+	clear:both;
+	font-size: 10px;
+}
+
+div.timestamp tr {
+	font-size: 10px;
+}

@@ -1,0 +1,12 @@
+{% load url from future %}
+{% block addressbookheader %}
+<div class="addressbookheader">
+<a href="{% url 'ab_all' %}">All</a> -
+{% for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" %}
+<a href="{% url 'addressbook_search' letter %}">{{letter}}</a> -
+{% endfor %}
+<a href="{% url 'addressbook_index' %}">Search</a>
+{% if export_form %}<form method="POST" action="{% url 'addressbook_export' %}">{% csrf_token %}{{ export_form }}
+	<input type="submit" value="Export" name="export" /></form>{% endif %}
+</div>
+{% endblock %}
